@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bisma Shah</h1>
 
 <p align="center">
-  <b>Frontend Developer | React, Next.js, TypeScript | Tailwind CSS | Cloud AI Certified | Learning Agentic AI & Python</b>
+  <b>Frontend Developer | React, Next.js, TypeScript | Tailwind CSS | Learning Agentic AI & Python</b>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 I'm a passionate frontend developer with a strong foundation in modern web technologies. I build responsive, user-centric applications using **React**, **Next.js**, and **TypeScript**, styled beautifully with **Tailwind CSS**.  
 
-As a **Cloud AI Certified** engineer, I blend frontend development with **generative AI** and **cloud-native** tools — currently diving deep into **Agentic AI** and Python for intelligent systems.
+💡 **Actively learning Agentic AI and Python**, and exploring how to integrate **frontend development** with **generative AI** and **cloud-native technologies**.
 
 ---
 
@@ -32,8 +32,6 @@ As a **Cloud AI Certified** engineer, I blend frontend development with **genera
 
 - Agentic AI with OpenAI tools & frameworks  
 - Advanced TypeScript patterns  
-- Cloud-native development for AI deployment  
-
 ---
 
 ### 📫 Connect With Me
